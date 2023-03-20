@@ -1,0 +1,166 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------------< uma:Factorial >----------------------------
+[INFO] Building Factorial 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.0/maven-resources-plugin-3.3.0.pom
+Progress (1): 1.4/8.5 kBProgress (1): 2.7/8.5 kBProgress (1): 4.1/8.5 kBProgress (1): 5.5/8.5 kBProgress (1): 6.9/8.5 kBProgress (1): 8.2/8.5 kBProgress (1): 8.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.0/maven-resources-plugin-3.3.0.pom (8.5 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.0/maven-resources-plugin-3.3.0.jar
+Progress (1): 1.4/32 kBProgress (1): 2.7/32 kBProgress (1): 4.1/32 kBProgress (1): 5.5/32 kBProgress (1): 6.9/32 kBProgress (1): 8.2/32 kBProgress (1): 9.6/32 kBProgress (1): 11/32 kB Progress (1): 12/32 kBProgress (1): 14/32 kBProgress (1): 15/32 kBProgress (1): 16/32 kBProgress (1): 18/32 kBProgress (1): 19/32 kBProgress (1): 21/32 kBProgress (1): 22/32 kBProgress (1): 23/32 kBProgress (1): 25/32 kBProgress (1): 26/32 kBProgress (1): 27/32 kBProgress (1): 29/32 kBProgress (1): 30/32 kBProgress (1): 32/32 kBProgress (1): 32 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.3.0/maven-resources-plugin-3.3.0.jar (32 kB at 504 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.pom
+Progress (1): 1.4/13 kBProgress (1): 2.7/13 kBProgress (1): 4.1/13 kBProgress (1): 5.5/13 kBProgress (1): 6.9/13 kBProgress (1): 8.2/13 kBProgress (1): 9.6/13 kBProgress (1): 11/13 kB Progress (1): 12/13 kBProgress (1): 13 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.pom (13 kB at 268 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom
+Progress (1): 11 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom (11 kB at 227 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar
+Progress (1): 16/62 kBProgress (1): 33/62 kBProgress (1): 49/62 kBProgress (1): 62 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar (62 kB at 1.3 MB/s)
+[INFO] 
+[INFO] --- resources:3.3.0:resources (default-resources) @ Factorial ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.pom
+Progress (1): 6.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.pom (6.9 kB at 224 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/36/maven-shared-components-36.pom
+Progress (1): 4.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/36/maven-shared-components-36.pom (4.9 kB at 153 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+Progress (1): 2.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom (2.7 kB at 88 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom (14 kB at 440 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+Progress (1): 3.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom (3.2 kB at 200 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+Progress (1): 8.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom (8.4 kB at 253 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+Progress (1): 16/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom (31 kB at 1.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+Progress (1): 5.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom (5.1 kB at 164 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+Progress (1): 16/55 kBProgress (1): 33/55 kBProgress (1): 49/55 kBProgress (1): 55 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.3.0/maven-filtering-3.3.0.jar (55 kB at 1.9 MB/s)
+Progress (1): 1.4/41 kBProgress (1): 2.7/41 kBProgress (1): 4.1/41 kBProgress (1): 5.5/41 kBProgress (1): 6.9/41 kBProgress (2): 6.9/41 kB | 1.4/587 kBProgress (2): 8.2/41 kB | 1.4/587 kBProgress (2): 8.2/41 kB | 2.7/587 kBProgress (2): 9.6/41 kB | 2.7/587 kBProgress (2): 9.6/41 kB | 4.1/587 kBProgress (2): 11/41 kB | 4.1/587 kB Progress (2): 11/41 kB | 5.5/587 kBProgress (2): 12/41 kB | 5.5/587 kBProgress (2): 12/41 kB | 6.9/587 kBProgress (2): 14/41 kB | 6.9/587 kBProgress (2): 14/41 kB | 8.2/587 kBProgress (2): 15/41 kB | 8.2/587 kBProgress (2): 15/41 kB | 9.6/587 kBProgress (2): 15/41 kB | 11/587 kB Progress (2): 15/41 kB | 12/587 kBProgress (2): 15/41 kB | 14/587 kBProgress (2): 15/41 kB | 15/587 kBProgress (2): 16/41 kB | 15/587 kBProgress (2): 17/41 kB | 15/587 kBProgress (2): 19/41 kB | 15/587 kBProgress (2): 20/41 kB | 15/587 kBProgress (3): 20/41 kB | 15/587 kB | 1.4/8.5 kBProgress (3): 20/41 kB | 16/587 kB | 1.4/8.5 kBProgress (3): 21/41 kB | 16/587 kB | 1.4/8.5 kBProgress (3): 21/41 kB | 16/587 kB | 2.7/8.5 kBProgress (3): 23/41 kB | 16/587 kB | 2.7/8.5 kBProgress (3): 23/41 kB | 16/587 kB | 4.1/8.5 kBProgress (3): 24/41 kB | 16/587 kB | 4.1/8.5 kBProgress (3): 24/41 kB | 16/587 kB | 5.5/8.5 kBProgress (3): 25/41 kB | 16/587 kB | 5.5/8.5 kBProgress (3): 25/41 kB | 16/587 kB | 6.9/8.5 kBProgress (3): 27/41 kB | 16/587 kB | 6.9/8.5 kBProgress (3): 27/41 kB | 32/587 kB | 6.9/8.5 kBProgress (3): 28/41 kB | 32/587 kB | 6.9/8.5 kBProgress (3): 28/41 kB | 32/587 kB | 8.2/8.5 kBProgress (3): 30/41 kB | 32/587 kB | 8.2/8.5 kBProgress (3): 30/41 kB | 32/587 kB | 8.5 kB    Progress (3): 31/41 kB | 32/587 kB | 8.5 kBProgress (3): 32/41 kB | 32/587 kB | 8.5 kBProgress (3): 34/41 kB | 32/587 kB | 8.5 kBProgress (3): 35/41 kB | 32/587 kB | 8.5 kBProgress (3): 35/41 kB | 49/587 kB | 8.5 kBProgress (3): 36/41 kB | 49/587 kB | 8.5 kB                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar (8.5 kB at 88 kB/s)
+Progress (2): 38/41 kB | 49/587 kBProgress (2): 39/41 kB | 49/587 kBProgress (2): 41/41 kB | 49/587 kBProgress (2): 41 kB | 49/587 kB   Progress (2): 41 kB | 65/587 kB                               Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar (41 kB at 407 kB/s)
+Progress (1): 81/587 kBProgress (1): 98/587 kBProgress (1): 114/587 kBProgress (1): 131/587 kBProgress (1): 147/587 kBProgress (1): 163/587 kBProgress (1): 180/587 kBProgress (1): 196/587 kBProgress (1): 212/587 kBProgress (1): 229/587 kBProgress (1): 245/587 kBProgress (1): 262/587 kBProgress (1): 278/587 kBProgress (1): 294/587 kBProgress (1): 311/587 kBProgress (1): 327/587 kBProgress (1): 344/587 kBProgress (1): 360/587 kBProgress (1): 376/587 kBProgress (1): 393/587 kBProgress (1): 402/587 kBProgress (1): 418/587 kBProgress (1): 435/587 kBProgress (1): 451/587 kBProgress (1): 468/587 kBProgress (1): 484/587 kBProgress (1): 500/587 kBProgress (1): 517/587 kBProgress (1): 533/587 kBProgress (1): 549/587 kBProgress (1): 566/587 kBProgress (1): 582/587 kBProgress (1): 587 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar (587 kB at 3.6 MB/s)
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- compiler:3.10.1:compile (default-compile) @ Factorial ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom
+Progress (1): 5.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom (5.8 kB at 389 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.pom
+Progress (1): 1.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.pom (1.1 kB at 17 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.11.1/plexus-compiler-2.11.1.pom
+Progress (1): 8.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.11.1/plexus-compiler-2.11.1.pom (8.1 kB at 254 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/6.6/plexus-components-6.6.pom
+Progress (1): 2.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/6.6/plexus-components-6.6.pom (2.7 kB at 167 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.pom
+Progress (1): 8.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.pom (8.0 kB at 257 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.pom
+Progress (1): 1.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.pom (1.1 kB at 37 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.pom
+Progress (1): 1.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.pom (1.2 kB at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.11.1/plexus-compilers-2.11.1.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.11.1/plexus-compilers-2.11.1.pom (1.3 kB at 83 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.jar
+Progress (1): 4.7 kBProgress (2): 4.7 kB | 16/27 kBProgress (3): 4.7 kB | 16/27 kB | 16/153 kB                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.jar (4.7 kB at 116 kB/s)
+Progress (2): 27 kB | 16/153 kB                               Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.jar (27 kB at 673 kB/s)
+Progress (1): 32/153 kBProgress (1): 49/153 kBProgress (1): 65/153 kBProgress (1): 81/153 kBProgress (1): 98/153 kBProgress (2): 98/153 kB | 1.4/23 kBProgress (2): 98/153 kB | 2.7/23 kBProgress (2): 114/153 kB | 2.7/23 kBProgress (2): 114/153 kB | 4.1/23 kBProgress (2): 114/153 kB | 5.5/23 kBProgress (2): 131/153 kB | 5.5/23 kBProgress (2): 147/153 kB | 5.5/23 kBProgress (2): 147/153 kB | 6.9/23 kBProgress (2): 153 kB | 6.9/23 kB    Progress (2): 153 kB | 8.2/23 kBProgress (2): 153 kB | 9.6/23 kBProgress (2): 153 kB | 11/23 kB Progress (2): 153 kB | 12/23 kBProgress (2): 153 kB | 14/23 kBProgress (2): 153 kB | 15/23 kBProgress (2): 153 kB | 16/23 kB                               Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar (153 kB at 2.3 MB/s)
+Progress (1): 18/23 kBProgress (1): 19/23 kBProgress (1): 21/23 kBProgress (1): 22/23 kBProgress (1): 23 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.jar (23 kB at 341 kB/s)
+Progress (1): 1.4/264 kBProgress (1): 2.7/264 kBProgress (1): 4.1/264 kBProgress (1): 5.5/264 kBProgress (1): 6.9/264 kBProgress (1): 8.2/264 kBProgress (1): 9.6/264 kBProgress (1): 11/264 kB Progress (1): 12/264 kBProgress (1): 14/264 kBProgress (1): 15/264 kBProgress (1): 16/264 kBProgress (1): 32/264 kBProgress (1): 49/264 kBProgress (1): 65/264 kBProgress (1): 81/264 kBProgress (1): 98/264 kBProgress (1): 114/264 kBProgress (1): 131/264 kBProgress (1): 147/264 kBProgress (1): 163/264 kBProgress (1): 180/264 kBProgress (1): 196/264 kBProgress (1): 212/264 kBProgress (1): 229/264 kBProgress (1): 245/264 kBProgress (1): 262/264 kBProgress (1): 264 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.jar (264 kB at 2.0 MB/s)
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- resources:3.3.0:testResources (default-testResources) @ Factorial ---
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- compiler:3.10.1:testCompile (default-testCompile) @ Factorial ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- surefire:3.0.0-M7:test (default-test) @ Factorial ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running uma.bdd.RunCucumberTest
+
+@tag @tag1
+Scenario: Computing the factorial of zero # uma/factorial.feature:24
+  Given I have a factorial calculator     # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 0       # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 1               # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:37
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 1                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 1                                           # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:38
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 2                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 2                                           # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:39
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 3                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 6                                           # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:40
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 4                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 24                                          # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:41
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 5                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 120                                         # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag2
+Scenario Outline: Computing the factorial of a positive small integer # uma/factorial.feature:42
+  Given I have a factorial calculator                                 # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of 6                                   # uma.bdd.StepDefinitions.i_compute_the_factorial_of(java.lang.Integer)
+  Then The system returns 720                                         # uma.bdd.StepDefinitions.the_system_returns(java.lang.Integer)
+
+@tag @tag3
+Scenario Outline: Computing the factorial of a negative integer # uma/factorial.feature:52
+  Given I have a factorial calculator                           # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of a negative number -1          # uma.bdd.StepDefinitions.i_compute_the_factorial_of_a_negative_number(java.lang.Integer)
+  Then The system raises an exception                           # uma.bdd.StepDefinitions.the_system_raises_an_exception()
+
+@tag @tag3
+Scenario Outline: Computing the factorial of a negative integer # uma/factorial.feature:53
+  Given I have a factorial calculator                           # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of a negative number -2          # uma.bdd.StepDefinitions.i_compute_the_factorial_of_a_negative_number(java.lang.Integer)
+  Then The system raises an exception                           # uma.bdd.StepDefinitions.the_system_raises_an_exception()
+
+@tag @tag3
+Scenario Outline: Computing the factorial of a negative integer # uma/factorial.feature:54
+  Given I have a factorial calculator                           # uma.bdd.StepDefinitions.i_have_a_factorial_calculator()
+  When I compute the factorial of a negative number -5          # uma.bdd.StepDefinitions.i_compute_the_factorial_of_a_negative_number(java.lang.Integer)
+  Then The system raises an exception                           # uma.bdd.StepDefinitions.the_system_raises_an_exception()
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.414 s - in uma.bdd.RunCucumberTest
+[INFO] Running uma.FactorialTest
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 s - in uma.FactorialTest
+[INFO] Running uma.ImprovedFactorialTest
+[INFO] Running uma.ImprovedFactorialTest$TestCasesForBigIntegerResults
+[INFO] Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.156 s - in uma.ImprovedFactorialTest$TestCasesForBigIntegerResults
+[INFO] Running uma.ImprovedFactorialTest$TestCasesForIntValues
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s - in uma.ImprovedFactorialTest$TestCasesForIntValues
+[INFO] Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.219 s - in uma.ImprovedFactorialTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 35, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.621 s
+[INFO] Finished at: 2023-03-02T19:37:42+01:00
+[INFO] ------------------------------------------------------------------------
